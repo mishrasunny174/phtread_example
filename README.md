@@ -1,2 +1,2 @@
-# phtread_example
+# pthread_example
 random pthread examples
